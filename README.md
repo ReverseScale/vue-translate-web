@@ -16,7 +16,7 @@
 
 服务端主要是提供功能api接口，包括后台管理系统的接口和翻译同步助手的接口，目前总共有17个接口，所有接口都由AdminTranslateController这个类提供。
 
-服务端项目地址为：xxx 如果你感兴趣可以clone下来看看。
+服务端项目地址为：https://github.com/MZCretin/java-translate-server 如果你感兴趣可以clone下来看看。
 
 ### 2.2 翻译管理后台
 
